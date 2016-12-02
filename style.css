@@ -1,0 +1,10 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+#form {
+	width: 800px;
+	margin: 40px 0 0 40px;
+}
